@@ -1,0 +1,11 @@
+{
+  "name": "end-term-project",
+  "version": "1.0.0",
+  "description": "The End Term Project made by Nodejs",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "author": "Raziyeva S",
+  "license": "ISC"
+}
